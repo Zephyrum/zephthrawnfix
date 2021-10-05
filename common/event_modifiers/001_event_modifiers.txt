@@ -1,0 +1,10 @@
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+
+tot_dedicated_ruler = {
+	tribal_development_growth = 0.005
+}
+primus_inter_pares_mod = {
+	tribal_development_growth = 0.005
+}
